@@ -1,1 +1,2 @@
-console.log('Hello World!')
+export { useStringSearchParam } from './useStringSearchParam';
+
